@@ -14,4 +14,4 @@
 - data_ship.txt : 舰娘基础数据（json格式），Basic data (json format)
 - href.txt : 舰娘详细信息页面连接， Ship details page href
 - ship_info_href.py : “舰娘详细信息页面连接”的爬虫， the crawler of “Ship details page href”
-- ship_datas.py : “舰娘数据和图片”的爬虫，the crawler of “Ship  ****info & icon image”
+- ship_datas.py : “舰娘数据和图片”的爬虫，the crawler of “Ship info & icon image”
