@@ -15,4 +15,6 @@
 - href.txt : 舰娘详细信息页面连接， Ship details page href
 - ship_info_href.py : “舰娘详细信息页面连接”的爬虫， the crawler of “Ship details page href”
 - ship_datas.py : “舰娘数据和图片”的爬虫，可以下载icon图片，the crawler of “Ship info & icon image”
+(v1.0 )
 - ship_datas_v1_1.py : “舰娘详细数据和icon图片链接”的爬虫，the crawler of “Ship derail info & href of icon image”
+(v1.1 11/30/2022)
