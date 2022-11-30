@@ -29,7 +29,7 @@ for i in range(1,678):
         print(img_href[0])
         # print(icon_href[0])
         f = open("ship_datas_v1_1.txt", "a",encoding='utf-8')
-        f.write("{\"name\":"+"\""+english_names[0]+"\""+", \"rarity\":"+"\""+rarity[0].replace("\n","",1).replace(" ","",1).replace("★","",6)+"\""+", \"faction\":"+"\""+faction[0]+"\""+", \"classification\":"+"\""+classification[0]+"\""+", \"class\":"+"\""+classes[0]+"\"")
+        f.write("{\"name\":"+"\""+english_names[0]+"\""+", \"rarity\":"+"\""+rarity[0].replace("\n","",1).replace(" ","").replace("★","",6)+"\""+", \"faction\":"+"\""+faction[0]+"\""+", \"classification\":"+"\""+classification[0]+"\""+", \"class\":"+"\""+classes[0]+"\"")
         f.write(", \"img_href\":"+"\""+img_href[0]+"\"")
         f.write(", \"skill_name\":"+"\""+skill_name[0]+"\""+"},")
         f.close()
