@@ -6,7 +6,7 @@
 - **fleets’ info & icon image**
 - **碧蓝航线Wiki爬虫**
 - **舰娘基础信息 & 图片**
-- **source website：[https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki](https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki)**
+- **data source website：[https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki](https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki)**
 
 ## 仓库文件说明，Repository Document Description
 
